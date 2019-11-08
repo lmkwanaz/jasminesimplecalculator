@@ -5,5 +5,6 @@ describe("add numbers", function(){
         expect(add(15, 5)).toBe(20);
         expect(add(50, 10)).toBe(60);
         expect(add(70, 30)).toBe(100);
+        expect(add(100, 100)).toBe(200);
     });
 });

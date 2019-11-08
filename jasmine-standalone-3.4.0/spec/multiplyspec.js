@@ -5,5 +5,6 @@ describe("multiplication", function(){
         expect(multiply(2, 5)).toBe(10);
         expect(multiply(3, 3)).toBe(9);
         expect(multiply(6, 5)).toBe(30);
+        expect(multiply(5, 5)).toBe(25);
     });
 });
