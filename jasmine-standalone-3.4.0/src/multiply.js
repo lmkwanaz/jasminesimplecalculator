@@ -7,3 +7,5 @@ function multiply(){
         }
         return sum;
 }
+
+module.exports = multiply;

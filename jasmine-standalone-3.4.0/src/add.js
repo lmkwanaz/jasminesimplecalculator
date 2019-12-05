@@ -6,3 +6,5 @@ function add(){
         }
         return sum;
 }
+
+module.exports = add;
